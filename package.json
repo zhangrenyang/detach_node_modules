@@ -1,0 +1,20 @@
+{
+  "name": "detach_node_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/zhangrenyang/detach_node_modules"
+  },
+  "scripts": {},
+  "bin": {
+    "clean": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^10.0.0",
+    "glob": "^7.2.0"
+  }
+}
