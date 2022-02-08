@@ -1,16 +1,15 @@
 ## Description
-- Delete all node_modules in the current directory and subdirectories
+- detach all node_modules in the current directory and subdirectories
 
 ## Installation
 ```js
-npm install clean_node_modules -g
+npm install detach_node_modules -g
 ```
 
 ## Usage
 ```js 
-clean
+detach
 ```
 
 ## Keywords
-- clean node_modules
-- 
+- detach_node_modules
