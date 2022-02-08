@@ -8,7 +8,7 @@
   },
   "scripts": {},
   "bin": {
-    "clean": "index.js"
+    "detach": "index.js"
   },
   "keywords": [],
   "author": "",
