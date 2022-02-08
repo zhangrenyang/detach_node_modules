@@ -1,6 +1,6 @@
 {
   "name": "detach_node_modules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "fs-extra": "^10.0.0",
     "glob": "^7.2.0"
   }
